@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CharacterGenerator.unity
+    guid: b8630d1001e61e9449a077f9723de1dd
+  - enabled: 1
+    path: Assets/Scenes/Level0.unity
+    guid: 5e43015d0cbd7614cbc8212ca3fb4bc2
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9126944c0c4c95c4b80bf8a09bbb7111
+  m_configObjects: {}
